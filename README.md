@@ -1,9 +1,9 @@
 ### Hi there 👋
 
 
-🏫 Student Computer Science Cybersecurity @ Liberty University 
-✨ Interest in AI and other tech that allows for innovation
-🌎 Open for collaborations, Hackathons on&offline
+## 🏫 Student Computer Science Cybersecurity @ Liberty University 
+## ✨ Interest in AI and other tech that allows for innovation
+## 🌎 Open for collaborations, Hackathons on&offline
 
 <!--
 **hankwyman/hankwyman** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
