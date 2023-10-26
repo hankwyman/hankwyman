@@ -1,11 +1,9 @@
 ### Hello👋
 
-
-- 🏫 Computer Science Cybersec @ Liberty University
+- 🏫 Studying Computer Science Cybersec @ Liberty University
 - ✨ Interest in AI and other tech that allows for innovation
 - 🌎 Open for collaborations, Hackathons on&offline
-- 
-
+- 👾 Fan of retro games, Atari Commodore fan 
 <!--
 **hankwyman/hankwyman** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
